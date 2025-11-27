@@ -1,3 +1,4 @@
+---
 llm:
   provider: OPENAI
 
@@ -8,7 +9,7 @@ llm:
 
 prompt:
   normalize_prompts: false
-  summary_prompt_files: [ ./.prompt-summary-centralized.md ]
+  summary_prompt_files: [./.prompt-summary-centralized.md]
 
 review:
   mode: ADDED_AND_REMOVED_WITH_CONTEXT
@@ -28,4 +29,3 @@ vcs:
   http_client:
     timeout: 120
     api_url: https://api.github.com
-
