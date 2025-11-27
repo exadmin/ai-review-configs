@@ -3,8 +3,8 @@ llm:
 
   meta:
     model: deepseek-chat
-    max_tokens: 8096
-    temperature: 0.2
+    max_tokens: 8192
+    temperature: 0.3
 
 prompt:
   normalize_prompts: false
