@@ -1,5 +1,8 @@
 # ai-review-configs
-Centralized configurations storage for the AI-Review tool
+Centralized configurations storage for the [AI-Review tool](https://github.com/Nikita-Filonov/ai-review)
+
+AI-Review configurations are focused on a single repository. This repository enhances origina AI-Review tool with ability to have 
+single configuration which can be shared with number of your repositories.
 
 
 ## How to setup your repository
