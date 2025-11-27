@@ -8,7 +8,7 @@ llm:
 
 prompt:
   normalize_prompts: false
-  summary_prompt_files: [ .prompt-summary-centralized.md ]
+  summary_prompt_files: [ ./.prompt-summary-centralized.md ]
 
 review:
   mode: ADDED_AND_REMOVED_WITH_CONTEXT
